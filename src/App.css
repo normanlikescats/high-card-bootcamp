@@ -17,3 +17,47 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.Reset-Button-style {
+  background-color: #fd4f4f;
+  border: #eee;
+  color: #000000;
+  font-weight: bold;
+  border-radius: 7px;
+  height: 25px;
+  width: 100px;
+}
+
+.Reset-Button-style:hover {
+  background-color: #8e1818;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 7px;
+  height: 25px;
+  width: 100px;
+  border:#FFF 2px;
+}
+
+.Deal-Button-style {
+  background-color: #3efd54;
+  border: #eee;
+  color: #000000;
+  font-weight: bold;
+  border-radius: 7px;
+  height: 25px;
+  width: 100px;
+}
+
+.Deal-Button-style:hover {
+  background-color: #13811f;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 7px;
+  height: 25px;
+  width: 100px;
+  border:#FFF 2px;
+}
+
+.flex-container{
+  display:flex;
+}
